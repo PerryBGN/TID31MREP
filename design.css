@@ -1,0 +1,124 @@
+body{
+    background-image: url(cancha.jpg);
+    background-size: contain;
+    padding: 0;
+    margin: 0;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+
+    
+    
+}
+h1{
+    padding-right: 20%;
+}
+.fondo {
+    display: flex;
+    background-color: grey;
+    opacity: 90%;
+    height: 750px;
+    border-radius: 20px 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.nu1{
+    height: 25%;
+    width: 30%;
+    margin: 20px;
+    border-radius: 20px;
+    
+}
+
+.cuadro{
+    display: flex;
+    justify-content: end;
+    margin: 81%;
+    margin-top: 10%;
+    background-color: grey ; 
+    opacity: 75%;
+    height: 253px;
+    width: 253px;
+    border-radius: 20px 20px;
+    
+}
+.texto{
+    background-color:grey;
+    border-radius: 20px;
+    opacity: 75%;
+    box-sizing: content-box;
+    width: 300px;
+    display: flex;
+    margin-top: -94%;
+    margin: left;
+    font-size: 30px;
+    
+
+}
+
+.nu2{
+    display:flex;
+    margin:auto;
+    height: 200px;
+    
+}
+
+.autor{
+    display: Flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    margin:auto;
+    margin-top:5%;
+    border-radius: 20px;
+    box-sizing: content-box;
+    width: 300px;
+    height: 300px;
+    opacity: 75%;
+
+
+}
+.aut2{
+
+    height: 120px;
+
+}
+.boton{
+    display: flex;
+    justify-content: center;
+    margin:auto;
+    background-color: black;
+    font-size:larger;
+
+}
+.informa{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    background-size:cover;
+    height: 200px;
+}
+.iconoss{
+    display:flex;
+    justify-content: flex-end;
+}
+.you{
+    height: 2em;
+    margin-top: -5%;
+}
+.Face{
+    height: 2em;
+    margin-top: -5%;
+}
+.Insta{
+    height: 2em;
+    margin-top: -5%;
+}
